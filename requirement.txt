@@ -1,0 +1,15 @@
+# 深度学习核心
+torch
+torchvision
+
+# 图像处理
+opencv-python
+
+# 矩阵运算与科学计算
+numpy
+
+# 绘图与可视化
+matplotlib
+
+# Jupyter 运行环境
+ipykernel
