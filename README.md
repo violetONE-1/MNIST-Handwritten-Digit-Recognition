@@ -13,4 +13,8 @@ Both models were trained on the MNIST dataset using the Adam optimizer and ident
 Quantitative Analysis
 The experimental data confirmed that while increasing hidden layer units improves model capacity, it simultaneously elevates the risk of overfitting.
 *Without Dropout: The model showed high variance in validation accuracy and signs of "memorizing" the training set.
-*With Dropout: The inclusion of a stochastic Dropout layer forced the network to learn more robust features, leading to a smoother convergence and a stable 0.5% - 1.0% increase in final test accuracy.
+*With Dropout: The inclusion of a stochastic Dropout layer forced the network to learn more robust features, leading to a smoother convergence and a stable 0.5% - 
+1.0% increase in final test accuracy.
+
+<img width="1500" height="600" alt="comparison_results" src="https://github.com/user-attachments/assets/320adbd4-73c3-45a2-a8fe-a74f1578e2c1" />
+
