@@ -18,3 +18,4 @@ The experimental data confirmed that while increasing hidden layer units improve
 
 <img width="1500" height="600" alt="comparison_results" src="https://github.com/user-attachments/assets/320adbd4-73c3-45a2-a8fe-a74f1578e2c1" />
 
+<img width="2850" height="1234" alt="result" src="https://github.com/user-attachments/assets/06a52f51-6f47-4a1f-92c6-b01e46527174" />
