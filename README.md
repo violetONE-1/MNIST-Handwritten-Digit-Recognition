@@ -1,7 +1,7 @@
 # MNIST-Handwritten-Digit-Recognition
 
 Motivation and Objective :                                                      
-The initial objective of this project was to bridge the gap between theroy and practice of CNNs. Upon benchmarking my model against the official reference implementation, a significant architectural variance was identified:the integration of a Dropout layer. To evaluate the efficacy of Dropout as a regularization technique in mitigating overfitting, I developed a comparative study.
+The initial objective of this project was to explore the charm of computer vision and bridge the gap between theroy and practice of CNNs. Upon benchmarking my model against the official reference implementation, a significant architectural variance was identified:the integration of a Dropout layer. To evaluate the efficacy of Dropout as a regularization technique in mitigating overfitting, I developed a comparative study.
 
 
 Experimental Design：
